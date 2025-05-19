@@ -28,7 +28,7 @@ Meu perfil está em construção e em breve vou compartilhar meus projetos.
 
 ## Contato
 
-- Email: joaopauloleoncio2002@gmail.com
+- Email: leonciodev.contact@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-paulo-le%C3%B4ncio-78071627b/
 - Discord: LeôncioDev
 
