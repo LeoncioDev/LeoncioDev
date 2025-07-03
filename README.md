@@ -10,7 +10,7 @@
 ## 👨‍💻 Sobre mim
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="coding gif" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="coding gif" />
 </p>
 
 - 🎓 Graduando em Ciência da Computação  
