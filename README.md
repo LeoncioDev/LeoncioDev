@@ -1,26 +1,19 @@
-<h1 align="center">Olá 👋, eu sou João Paulo Leôncio (Leonciodev)</h1>
-<h3 align="center">Desenvolvedor Python | Apaixonado por automações, APIs e soluções que fazem a diferença</h3>
+<h1 align="center">João Paulo Leôncio (Leonciodev)</h1>
+<h3 align="center">Desenvolvedor Python | Especialista em automação, APIs e soluções eficientes</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonciodev&label=Visualizações+do+perfil&color=0e75b6&style=flat" alt="leonciodev" />
+  <img src="https://komarev.com/ghpvc/?username=leonciodev&label=Visitas+ao+perfil&color=0e75b6&style=flat" alt="leonciodev" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="coding gif" />
-</p>
-
-- 🎓 Graduando em Ciência da Computação  
-- 🐍 Desenvolvedor Python com foco em **automações**, **ferramentas desktop** e **APIs**  
-- 🧠 Apaixonado por aprender e transformar problemas reais em soluções práticas  
-- ⚡ Interesse especial em performance, arquitetura limpa e automações eficientes  
+Graduando em Ciência da Computação, atuo como desenvolvedor Python com foco em automação, desenvolvimento de ferramentas desktop e criação de APIs robustas. Tenho interesse em soluções que otimizam processos, entregam performance e aplicam boas práticas de arquitetura de software.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Competências Técnicas
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
@@ -45,19 +38,7 @@
 
 ---
 
-## 🚀 Projetos em breve
-
-Ainda estou organizando meus repositórios para trazer projetos que exemplifiquem minhas habilidades, como:
-
-- 🛠️ Ferramentas desktop para automação  
-- 🌐 APIs robustas usando Flask  
-- 💾 Integração com bancos de dados MySQL e Firebase  
-
-Fique ligado!
-
----
-
-## 📫 Contato & Redes
+## Contato
 
 <p align="center">
   <a href="mailto:leonciodev.contact@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -73,7 +54,7 @@ Fique ligado!
 
 ---
 
-## 📊 Meu GitHub
+## GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leonciodev&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -85,4 +66,6 @@ Fique ligado!
 
 ---
 
-<p align="center">Obrigado por visitar meu perfil! Vamos construir coisas incríveis juntos 🚀😊</p>
+<p align="center">
+  Obrigado por visitar meu perfil. Estou aberto a novas oportunidades e colaborações profissionais.
+</p>
