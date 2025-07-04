@@ -47,7 +47,7 @@ Graduando em Ciência da Computação, atuo como desenvolvedor Python com foco e
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-le%C3%B4ncio-78071627b/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discordapp.com/users/LeôncioDev" target="_blank" rel="noopener noreferrer">
+  <a href="https://discordapp.com/users/355042352064102402" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
