@@ -1,51 +1,51 @@
-# João Paulo Leôncio (leonciodev)
+# 👨‍💻 João Paulo Leôncio (leonciodev)
 
-**Desenvolvedor Python — Automação | APIs | Ferramentas internas**
-
----
-
-## Sobre mim
-
-Sou desenvolvedor Python com experiência sólida em automação de processos, desenvolvimento de APIs REST e criação de ferramentas desktop para uso corporativo.
-
-Graduando em Ciência da Computação, foco na entrega de soluções que trazem ganho real de produtividade e escalabilidade. Código limpo, manutenível e orientado a boas práticas.
+**Desenvolvedor Python** — Automação | APIs | Ferramentas Internas
 
 ---
 
-## Stack principal
+## 🔎 Sobre mim
 
-- Python 3.x — scripts, automação, testes
-- Flask — APIs REST minimalistas, seguras e escaláveis
-- MySQL — modelagem e queries otimizadas
-- Firebase — backend serverless para integração rápida
-- Git — versionamento profissional
-- VS Code — ambiente de trabalho
+Graduando em Ciência da Computação, atuo como desenvolvedor Python focado em entregar soluções que **geram resultado real**.
+
+Especialista em automação de processos, desenvolvimento de APIs REST e criação de ferramentas desktop práticas, sempre com foco em **código limpo, legível e sustentável**.
 
 ---
 
-## Experiência prática
+## 🛠️ Stack Tecnológica
 
-- Desenvolvimento de scripts para eliminar tarefas repetitivas e minimizar erros humanos  
-- APIs REST com autenticação e tratamento robusto de exceções  
-- Ferramentas desktop com interfaces simples para facilitar operações internas  
-- Integração de sistemas e serviços via APIs e pipelines automatizados  
+- 🐍 **Python 3.x** — scripts, automação, testes  
+- ⚡ **Flask** — APIs REST escaláveis e seguras  
+- 🗄️ **MySQL** — modelagem, consultas otimizadas  
+- ☁️ **Firebase** — backend serverless para integrações rápidas  
+- 🔧 **Git** — versionamento profissional  
+- 💻 **VS Code** — ambiente de desenvolvimento  
 
 ---
 
-## Projetos relevantes
+## 🚀 Experiência na Prática
 
-- **Automatização de Relatórios:** pipeline que coleta dados de múltiplas fontes, processa, gera relatórios em PDF e distribui automaticamente  
+- Desenvolvimento de scripts para **automatizar tarefas manuais**, reduzindo retrabalho  
+- Construção de APIs REST com autenticação, tratamento robusto de erros e testes  
+- Criação de ferramentas desktop com interfaces simples para facilitar operações internas  
+- Integração e orquestração de sistemas via APIs e pipelines automatizados  
+
+---
+
+## 📂 Projetos Relevantes
+
+- **Automatização de Relatórios:** pipeline que coleta dados, processa, gera PDFs e envia emails automaticamente  
 - **API de Gestão Interna:** backend RESTful para controle de usuários e permissões, com endpoints documentados e testes automatizados  
-- **App Desktop para Suporte Técnico:** interface leve e funcional para abertura e acompanhamento de chamados internos  
+- **App Desktop para Suporte Técnico:** interface leve para abertura e acompanhamento de chamados internos  
 
 ---
 
-## Contato
+## 📬 Contato
 
-- Email: `leonciodev.contact@gmail.com` (copie e cole)  
-- LinkedIn: [João Paulo Leôncio](https://www.linkedin.com/in/jo%C3%A3o-paulo-le%C3%B4ncio-78071627b/)
+- 📧 Email: `leonciodev.contact@gmail.com` (copie e cole)  
+- 🔗 LinkedIn: [joão-paulo-leôncio](https://www.linkedin.com/in/jo%C3%A3o-paulo-le%C3%B4ncio-78071627b/)
 
 ---
 
-> Não estou aqui para vender mil palavras, mas para entregar código que funciona, é sustentável e gera resultado.
+> **“Código é comunicação. Entrego soluções que funcionam, são sustentáveis e evitam dor de cabeça.”**
 
