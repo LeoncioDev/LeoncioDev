@@ -22,12 +22,17 @@ Busco entregar soluções que otimizem processos, garantam performance e aplique
 
 ## 🛠️ Competências Técnicas
 
-| Backend           | Banco de Dados    | Ferramentas       |
-| :---------------: | :--------------: | :---------------: |
-| 🐍 Python 3.x      | 🗄️ MySQL          | 🔧 Git            |
-| ⚡ Flask           | ☁️ Firebase       | 💻 VS Code        |
-
 </p>
+
+<div align="center">
+
+| Backend           | Banco de Dados    | Ferramentas       |
+| :---------------: | :---------------: | :---------------: |
+| 🐍 Python 3.x     | 🗄️ MySQL          | 🔧 Git             |
+| ⚡ Flask           | ☁️ Firebase       | 💻 VS Code         |
+| 🔌 RESTful APIs   |                   | 🐚 Bash / Terminal |
+
+</div>
 
 ---
 
