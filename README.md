@@ -12,7 +12,7 @@
 ## 🔎 Sobre mim
 
 Graduando em Ciência da Computação, atuo como desenvolvedor Python focado em automação, desenvolvimento de ferramentas desktop e criação de APIs robustas.  
-Meu foco é entregar soluções que otimizem processos e garantam performance com boas práticas de arquitetura.
+Busco entregar soluções que otimizem processos, garantam performance e apliquem boas práticas de arquitetura.
 
 </p>
 
@@ -46,17 +46,26 @@ Meu foco é entregar soluções que otimizem processos e garantam performance co
 
 ## 📊 GitHub Stats & Destaques
 
-<img src="https://github-readme-stats.vercel.app/api?username=leonciodev&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonciodev&layout=compact&theme=radical" alt="Top Languages" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=leonciodev&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophy" />
-
-<br />
-
-<img src="https://activity-graph.herokuapp.com/graph?username=leonciodev&theme=radical" alt="GitHub Contribution Graph" />
+<table align="center" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=leonciodev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonciodev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-trophy.vercel.app/?username=leonciodev&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophy" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=leonciodev&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
+    </td>
+  </tr>
+</table>
 
 </p>
 
