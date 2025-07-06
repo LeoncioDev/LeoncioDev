@@ -1,51 +1,49 @@
-# 👨‍💻 João Paulo Leôncio (leonciodev)
+<p align="center">
+  <h1>👨‍💻 João Paulo Leôncio (leonciodev)</h1>
+  <h3>Desenvolvedor Python | Automação · APIs · Soluções Eficientes</h3>
 
-**Desenvolvedor Python** — Automação | APIs | Ferramentas Internas
+  <img src="https://komarev.com/ghpvc/?username=leonciodev&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações do perfil" />
+</p>
 
 ---
+
+<p align="center">
 
 ## 🔎 Sobre mim
 
-Graduando em Ciência da Computação, atuo como desenvolvedor Python focado em entregar soluções que **geram resultado real**.
-
-Especialista em automação de processos, desenvolvimento de APIs REST e criação de ferramentas desktop práticas, sempre com foco em **código limpo, legível e sustentável**.
-
----
-
-## 🛠️ Stack Tecnológica
-
-- 🐍 **Python 3.x** — scripts, automação, testes  
-- ⚡ **Flask** — APIs REST escaláveis e seguras  
-- 🗄️ **MySQL** — modelagem, consultas otimizadas  
-- ☁️ **Firebase** — backend serverless para integrações rápidas  
-- 🔧 **Git** — versionamento profissional  
-- 💻 **VS Code** — ambiente de desenvolvimento  
+Graduando em Ciência da Computação, atuo como desenvolvedor Python com foco em automação, desenvolvimento de ferramentas desktop e criação de APIs robustas.  
+Busco entregar soluções que otimizam processos, entregam performance e seguem boas práticas de arquitetura de software.
 
 ---
 
-## 🚀 Experiência na Prática
+## 🛠️ Competências Técnicas
 
-- Desenvolvimento de scripts para **automatizar tarefas manuais**, reduzindo retrabalho  
-- Construção de APIs REST com autenticação, tratamento robusto de erros e testes  
-- Criação de ferramentas desktop com interfaces simples para facilitar operações internas  
-- Integração e orquestração de sistemas via APIs e pipelines automatizados  
-
----
-
-## 📂 Projetos Relevantes
-
-- **Automatização de Relatórios:** pipeline que coleta dados, processa, gera PDFs e envia emails automaticamente  
-- **API de Gestão Interna:** backend RESTful para controle de usuários e permissões, com endpoints documentados e testes automatizados  
-- **App Desktop para Suporte Técnico:** interface leve para abertura e acompanhamento de chamados internos  
+| Backend           | Banco de Dados    | Ferramentas       |
+| ----------------- | ---------------- | ----------------- |
+| 🐍 Python 3.x      | 🗄️ MySQL          | 🔧 Git            |
+| ⚡ Flask           | ☁️ Firebase       | 💻 VS Code        |
 
 ---
 
 ## 📬 Contato
 
-- 📧 Email: `leonciodev.contact@gmail.com` (copie e cole)  
-- 🔗 LinkedIn: [joão-paulo-leôncio](https://www.linkedin.com/in/jo%C3%A3o-paulo-le%C3%B4ncio-78071627b/)
+📧 Email: <code>leonciodev.contact@gmail.com</code>  
+🔗 LinkedIn: [João Paulo Leôncio](https://www.linkedin.com/in/jo%C3%A3o-paulo-le%C3%B4ncio-78071627b/)
 
 ---
 
-> **“Código é comunicação. Entrego soluções que funcionam, são sustentáveis e evitam dor de cabeça.”**
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonciodev&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonciodev&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+> **“Código que funciona é prioridade. Eficiência e clareza são meus compromissos.”**
+
+</p>
