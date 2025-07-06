@@ -71,12 +71,9 @@ Tenho como princípio escrever código limpo, modular e com foco em performance.
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:leonciodev.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-le%C3%B4ncio-78071627b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  📧 <strong>Email:</strong> <a href="mailto:leonciodev.contact@gmail.com">leonciodev.contact@gmail.com</a>  
+  <br />
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-le%C3%B4ncio-78071627b/">João Paulo Leôncio</a>
 </p>
 
 ---
