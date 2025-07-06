@@ -1,5 +1,5 @@
 <h1 align="center">João Paulo Leôncio</h1>
-<h3 align="center">Desenvolvedor Python | Automação, APIs e Soluções que economizam tempo</h3>
+<h3 align="center">Desenvolvedor Python | Automação, APIs e Soluções que otimizam processos</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leonciodev&label=Visualizações&color=0e75b6&style=flat" alt="leonciodev" />
@@ -10,11 +10,9 @@
 ## 🧠 Sobre mim
 
 Sou desenvolvedor Python e graduando em Ciência da Computação.  
-Escrevo código que resolve problema, economiza tempo e evita retrabalho.
+Foco em entregar soluções práticas que automatizam processos e reduzem trabalho manual.
 
-Tenho experiência com automação de tarefas manuais, integração entre sistemas via API e ferramentas desktop para uso interno. Tudo que faço tem um foco: **otimizar o que é repetitivo e tornar o processo mais inteligente**.
-
-> “Automação boa é aquela que você nem percebe que existe — só vê o tempo que sobra.”
+Tenho experiência no desenvolvimento de scripts para automação, ferramentas desktop e APIs REST, sempre buscando código limpo e eficiente.
 
 ---
 
@@ -50,26 +48,22 @@ Tenho experiência com automação de tarefas manuais, integração entre sistem
 
 ---
 
-## 🔧 O que eu desenvolvo na prática
+## 🔧 O que faço na prática
 
-- Scripts que automatizam tarefas internas e rotinas repetitivas
-- Ferramentas desktop (Tkinter / PyQt) para uso direto por time ou cliente
-- APIs REST com Flask para integração entre sistemas
-- Soluções reais que já evitaram horas de trabalho manual
-
-> "Não faço portfólio bonito. Faço ferramenta que economiza clique."
+- Desenvolvimento de scripts para automação de tarefas rotineiras  
+- Criação de ferramentas desktop para facilitar processos internos  
+- Construção de APIs REST para integração entre sistemas  
+- Entrega de soluções objetivas que melhoram a produtividade  
 
 ---
 
-## 📌 Repositórios em destaque
+## 📌 Projetos em destaque
 
 | Projeto | Descrição |
 |--------|-----------|
-| **Automatizadores** | Scripts que integram sistemas, geram relatórios, transformam dados e aceleram fluxos internos. |
-| **APIs com Flask** | APIs REST construídas para conectar serviços, controlar dados e estruturar comunicações backend. |
-| **Desktop Tools** | Interfaces gráficas simples e diretas, pensadas para facilitar o uso de automações por não técnicos. |
-
-*(Se quiser ver algo mais técnico: estrutura de pastas, autenticação, logging, boas práticas... pode abrir qualquer repo.)*
+| **Automatizadores** | Scripts para integrar sistemas, processar dados e gerar relatórios automaticamente. |
+| **APIs com Flask** | APIs REST seguras e escaláveis para comunicação entre serviços. |
+| **Ferramentas Desktop** | Aplicativos simples e funcionais para uso prático no dia a dia. |
 
 ---
 
@@ -93,5 +87,5 @@ Tenho experiência com automação de tarefas manuais, integração entre sistem
 ---
 
 <p align="center">
-  Aberto a freelas, projetos paralelos e oportunidades onde eu possa criar código que realmente faça diferença.
+  Aberto a novas oportunidades e colaborações profissionais.
 </p>
