@@ -9,9 +9,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Python e graduando em Ciência da Computação. Trabalho criando soluções reais com foco em automação, desenvolvimento de ferramentas desktop e construção de APIs robustas para integração de sistemas e otimização de processos.
+Sou desenvolvedor Python e graduando em Ciência da Computação. Trabalho criando soluções reais com foco em automação, ferramentas desktop e desenvolvimento de APIs para integração de sistemas.
 
-Tenho como princípio escrever código limpo, modular e com foco em performance. Gosto de construir coisas úteis, enxutas e bem pensadas — nada de gambiarra.
+Tenho como princípio escrever código limpo, modular e com foco em performance. Desenvolvo ferramentas que resolvem problemas de verdade, economizam tempo e tornam processos mais inteligentes.
 
 ---
 
@@ -49,15 +49,13 @@ Tenho como princípio escrever código limpo, modular e com foco em performance.
 
 ## 📌 Repositórios em destaque
 
-> Aqui estão algumas das soluções reais que desenvolvi. Nada de projeto fake ou portfólio genérico.
+> Soluções reais desenvolvidas com foco em produtividade, integração e automação.
 
 | Projeto | Descrição |
 |--------|-----------|
-| **Automatizadores** | Scripts que automatizam tarefas repetitivas para uso pessoal e profissional. Ex: geração de relatórios, integração entre planilhas e sistemas. |
-| **APIs com Flask** | APIs REST robustas construídas com Flask, utilizadas em integrações reais de sistemas internos. |
-| **Ferramentas desktop** | Interfaces gráficas (GUI) simples feitas com Tkinter e PyQt para facilitar fluxos manuais de usuários não técnicos. |
-
-📌 Veja os repositórios para exemplos com código limpo, modularização e uso real de banco de dados e autenticação.
+| **Automatizadores** | Scripts para automatizar tarefas repetitivas: geração de relatórios, integração entre planilhas e sistemas, etc. |
+| **APIs com Flask** | APIs REST desenvolvidas para comunicação entre sistemas internos, com foco em segurança e performance. |
+| **Ferramentas desktop** | Aplicações com interface gráfica (Tkinter/PyQt) criadas para facilitar rotinas manuais de usuários. |
 
 ---
 
@@ -70,7 +68,7 @@ Tenho como princípio escrever código limpo, modular e com foco em performance.
 
 ---
 
-## 📬 Contato
+## 📫 Contato
 
 <p align="center">
   <a href="mailto:leonciodev.contact@gmail.com">
@@ -79,13 +77,10 @@ Tenho como princípio escrever código limpo, modular e com foco em performance.
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-le%C3%B4ncio-78071627b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/355042352064102402">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil. Estou aberto a novos projetos, freelas e parcerias.
+  Obrigado por visitar meu perfil. Estou aberto a novos projetos e colaborações profissionais.
 </p>
