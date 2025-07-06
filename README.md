@@ -1,5 +1,5 @@
 <h1 align="center">João Paulo Leôncio</h1>
-<h3 align="center">Desenvolvedor Python | Automação, APIs e Soluções Eficientes</h3>
+<h3 align="center">Desenvolvedor Python | Automação, APIs e Soluções que economizam tempo</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leonciodev&label=Visualizações&color=0e75b6&style=flat" alt="leonciodev" />
@@ -7,11 +7,14 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧠 Sobre mim
 
-Sou desenvolvedor Python e graduando em Ciência da Computação. Trabalho criando soluções reais com foco em automação, ferramentas desktop e desenvolvimento de APIs para integração de sistemas.
+Sou desenvolvedor Python e graduando em Ciência da Computação.  
+Escrevo código que resolve problema, economiza tempo e evita retrabalho.
 
-Tenho como princípio escrever código limpo, modular e com foco em performance. Desenvolvo ferramentas que resolvem problemas de verdade, economizam tempo e tornam processos mais inteligentes.
+Tenho experiência com automação de tarefas manuais, integração entre sistemas via API e ferramentas desktop para uso interno. Tudo que faço tem um foco: **otimizar o que é repetitivo e tornar o processo mais inteligente**.
+
+> “Automação boa é aquela que você nem percebe que existe — só vê o tempo que sobra.”
 
 ---
 
@@ -47,15 +50,26 @@ Tenho como princípio escrever código limpo, modular e com foco em performance.
 
 ---
 
-## 📌 Repositórios em destaque
+## 🔧 O que eu desenvolvo na prática
 
-> Soluções reais desenvolvidas com foco em produtividade, integração e automação.
+- Scripts que automatizam tarefas internas e rotinas repetitivas
+- Ferramentas desktop (Tkinter / PyQt) para uso direto por time ou cliente
+- APIs REST com Flask para integração entre sistemas
+- Soluções reais que já evitaram horas de trabalho manual
+
+> "Não faço portfólio bonito. Faço ferramenta que economiza clique."
+
+---
+
+## 📌 Repositórios em destaque
 
 | Projeto | Descrição |
 |--------|-----------|
-| **Automatizadores** | Scripts para automatizar tarefas repetitivas: geração de relatórios, integração entre planilhas e sistemas, etc. |
-| **APIs com Flask** | APIs REST desenvolvidas para comunicação entre sistemas internos, com foco em segurança e performance. |
-| **Ferramentas desktop** | Aplicações com interface gráfica (Tkinter/PyQt) criadas para facilitar rotinas manuais de usuários. |
+| **Automatizadores** | Scripts que integram sistemas, geram relatórios, transformam dados e aceleram fluxos internos. |
+| **APIs com Flask** | APIs REST construídas para conectar serviços, controlar dados e estruturar comunicações backend. |
+| **Desktop Tools** | Interfaces gráficas simples e diretas, pensadas para facilitar o uso de automações por não técnicos. |
+
+*(Se quiser ver algo mais técnico: estrutura de pastas, autenticação, logging, boas práticas... pode abrir qualquer repo.)*
 
 ---
 
@@ -79,5 +93,5 @@ Tenho como princípio escrever código limpo, modular e com foco em performance.
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil. Estou aberto a novos projetos e colaborações profissionais.
+  Aberto a freelas, projetos paralelos e oportunidades onde eu possa criar código que realmente faça diferença.
 </p>
