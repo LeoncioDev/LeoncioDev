@@ -69,17 +69,14 @@ Busco entregar soluções que otimizem processos, garantam performance e aplique
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=leonciodev&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonciodev&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
     </td>
   </tr>
 </table>
 
-</p>
-
 ---
 
 <p align="center">
-
-> **“Código que funciona é prioridade. Eficiência e clareza são meus compromissos.”**
-
+  <em>“Código que funciona é prioridade. Eficiência e clareza são meus compromissos.”</em>
 </p>
+
