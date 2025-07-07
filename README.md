@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>👨‍💻 João Paulo Leôncio (leonciodev)</h1>
+  <h1>👨‍💻 João Paulo Leôncio</h1>
   <h3 align="center">Desenvolvedor Python | Automação · APIs · Soluções Eficientes</h3>
 
 <p align="center">
