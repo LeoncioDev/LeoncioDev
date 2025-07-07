@@ -49,8 +49,6 @@ Busco entregar soluções que otimizem processos, garantam performance e aplique
 
 ---
 
-<p align="center">
-
 ## 📊 GitHub Stats & Destaques
 
 <table align="center" cellpadding="10">
@@ -69,7 +67,7 @@ Busco entregar soluções que otimizem processos, garantam performance e aplique
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonciodev&theme=radical" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonciodev&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
     </td>
   </tr>
 </table>
@@ -79,5 +77,6 @@ Busco entregar soluções que otimizem processos, garantam performance e aplique
 <p align="center">
   <em>“Código que funciona é prioridade. Eficiência e clareza são meus compromissos.”</em>
 </p>
+
 
 
