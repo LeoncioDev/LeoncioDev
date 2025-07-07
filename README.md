@@ -1,6 +1,6 @@
 <p align="center">
   <h1>👨‍💻 João Paulo Leôncio (leonciodev)</h1>
-  <h3>Desenvolvedor Python | Automação · APIs · Soluções Eficientes</h3>
+  <h3 align="center">Desenvolvedor Python | Automação · APIs · Soluções Eficientes</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leonciodev&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações do perfil" />
