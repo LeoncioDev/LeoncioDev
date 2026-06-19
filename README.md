@@ -1,6 +1,6 @@
 ### Hi, I'm João Paulo Leôncio 👋
 
-Python developer focused on backend development and AI-powered tools.
+Python developer building real projects to learn and grow.
 Currently studying Systems Analysis and Development at CESMAC, Maceió — Brazil.
 
 ---
