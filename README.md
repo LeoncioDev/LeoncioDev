@@ -31,14 +31,14 @@
 ### 👨‍💻 About Me
 
 Full Stack Developer from Maceió, Brazil.  
-Building complete web products — from the API  
-to the backend logic to the interface.
+Passionate about building clean, maintainable  
+web experiences and developer tools.
 
 - 🎓 Studying ADS @ CESMAC
-- 🚀 3 live projects in production
+- 🚀 3 live projects deployed in production
 - ⚡ Stack: Node.js · React · JavaScript
+- 📚 Always learning modern JS ecosystems
 - 🌐 [leonciodev.me](https://leonciodev.me)
-- 📫 leonciodev@proton.me
 
 <br clear="right"/>
 
@@ -147,6 +147,8 @@ to the backend logic to the interface.
 <div align="center">
 
 *"First, solve the problem. Then, write the code."*
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE,161b22,0d1117&height=100&section=footer" width="100%"/>
 
