@@ -1,43 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:22D3EE&height=200&section=header&text=João+Paulo+Leôncio&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full+Stack+Developer+%7C+Node.js+%7C+React+%7C+JavaScript&descAlignY=57&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:22D3EE&height=200&section=header&text=João+Paulo+Leôncio&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full+Stack+Developer+%7C+Node.js+%7C+React+%7C+JavaScript&descAlignY=57&descSize=15&animation=fadeIn&stroke=22D3EE&strokeWidth=0.5" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=22D3EE&center=true&vCenter=true&width=580&lines=🚀+Building+complete+web+products+from+scratch;⚡+API+%E2%86%92+Backend+%E2%86%92+Interface;🛠️+Node.js+%7C+React+%7C+JavaScript;📍+Maceió%2C+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=🚀+Building+complete+web+products+from+scratch;⚡+API+→+Backend+→+Interface;🛠️+Node.js+%7C+React+%7C+JavaScript;📍+Maceió%2C+Brazil+🇧🇷)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://leonciodev.me" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-leonciodev.me-22D3EE?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-leonciodev.me-22D3EE?style=for-the-badge&labelColor=161b22" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/leonciodev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" />
 </a>
 &nbsp;
 <a href="mailto:leonciodev@proton.me">
-  <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=161b22" />
 </a>
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoncioDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=22D3EE" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoncioDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=22D3EE" />
 
 ### 👨‍💻 About Me
 
 Full Stack Developer from Maceió, Brazil.  
-I build complete web products — from the API  
-to the backend logic to the interface.  
+Building complete web products — from the API  
+to the backend logic to the interface.
 
 - 🎓 Studying ADS @ CESMAC
-- 🚀 3 live projects deployed in production
-- ⚡ Node.js · React · JavaScript
+- 🚀 3 live projects in production
+- ⚡ Stack: Node.js · React · JavaScript
 - 🌐 [leonciodev.me](https://leonciodev.me)
+- 📫 leonciodev@proton.me
 
 <br clear="right"/>
 
@@ -61,11 +62,11 @@ to the backend logic to the interface.
       <h3 align="center">🔍 Scrutiny</h3>
       <div align="center">
         <a href="https://scrutiny.leonciodev.me" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-22D3EE?style=flat-square&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-22D3EE?style=flat-square&labelColor=161b22" />
         </a>
         &nbsp;
         <a href="https://github.com/LeoncioDev/Scrutiny" target="_blank">
-          <img src="https://img.shields.io/badge/📁_Code-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/📁_Code-white?style=flat-square&logo=github&logoColor=black" />
         </a>
       </div>
       <br/>
@@ -83,11 +84,11 @@ to the backend logic to the interface.
       <h3 align="center">📈 Zenith</h3>
       <div align="center">
         <a href="https://zenith.leonciodev.me" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-22D3EE?style=flat-square&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-22D3EE?style=flat-square&labelColor=161b22" />
         </a>
         &nbsp;
         <a href="https://github.com/LeoncioDev/zenith" target="_blank">
-          <img src="https://img.shields.io/badge/📁_Code-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/📁_Code-white?style=flat-square&logo=github&logoColor=black" />
         </a>
       </div>
       <br/>
@@ -107,11 +108,11 @@ to the backend logic to the interface.
       <h3 align="center">🌐 Portfolio</h3>
       <div align="center">
         <a href="https://leonciodev.me" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live-22D3EE?style=flat-square&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/🌐_Live-22D3EE?style=flat-square&labelColor=161b22" />
         </a>
         &nbsp;
         <a href="https://github.com/LeoncioDev/portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/📁_Code-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/📁_Code-white?style=flat-square&logo=github&logoColor=black" />
         </a>
       </div>
       <br/>
@@ -127,9 +128,17 @@ to the backend logic to the interface.
 
 ---
 
+### 📊 GitHub Activity
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoncioDev&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoncioDev&theme=tokyonight" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeoncioDev&theme=tokyonight" height="180"/>
 
 </div>
 
@@ -137,6 +146,8 @@ to the backend logic to the interface.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE,0d2137,0d1117&height=100&section=footer" width="100%"/>
+*"First, solve the problem. Then, write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE,161b22,0d1117&height=100&section=footer" width="100%"/>
 
 </div>
