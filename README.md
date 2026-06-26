@@ -34,8 +34,7 @@ Personal portfolio. No frameworks, no build tools — just HTML, CSS, and vanill
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeoncioDev&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=stars,rank&custom_title=GitHub%20Stats" height="130" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoncioDev&layout=compact&theme=dark&hide_border=true&langs_count=5&hide=python" height="130" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoncioDev&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Top Languages" />
 
 ---
 
