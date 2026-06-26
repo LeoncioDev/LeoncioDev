@@ -124,16 +124,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img alt="github-snake" src="https://raw.githubusercontent.com/LeoncioDev/LeoncioDev/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE,0d1117&height=100&section=footer" width="100%"/>
