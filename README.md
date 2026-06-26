@@ -1,10 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=João+Paulo+Leôncio)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/LeoncioDev/LeoncioDev/main/header.svg" alt="João Paulo Leôncio" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Maceió%2C+Brazil;Building+complete+web+products+from+scratch;Node.js+%7C+React+%7C+JavaScript)](https://git.io/typing-svg)
+</div>
 
 <br/>
+
+<div align="center">
 
 <a href="https://leonciodev.me" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-leonciodev.me-22D3EE?style=flat-square&logo=firefox&logoColor=white" />
@@ -19,12 +21,6 @@
 </a>
 
 </div>
-
----
-
-### About
-
-Full Stack Developer from Maceió, Brazil. I build complete web products — the API, the backend logic, and the interface. Currently studying Systems Analysis and Development at CESMAC.
 
 ---
 
@@ -69,10 +65,4 @@ Personal portfolio. HTML, CSS, vanilla JS — no frameworks, no build tools.
 
 <img alt="github-snake" src="https://raw.githubusercontent.com/LeoncioDev/LeoncioDev/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
-
----
-
-<div align="center">
-<sub>Built and shipped by João Paulo Leôncio · Maceió, Brazil</sub>
 </div>
