@@ -45,7 +45,7 @@ Passionate about building clean, maintainable web products — from the API to t
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,html,css,git,linux&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,html,css,git,linux,vscode&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
