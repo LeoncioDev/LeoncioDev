@@ -36,18 +36,77 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-**[🔍 Scrutiny](https://github.com/LeoncioDev/Scrutiny)** · [scrutiny.leonciodev.me ↗](https://scrutiny.leonciodev.me)  
-AI-powered GitHub profile analyzer. Dual-model LLaMA pipeline: 8B selects repos, 70B runs the deep technical report via Groq.  
-`Node.js` `Express` `Groq API` `LLaMA 3.3 70B` `GitHub API`
-
-**[📈 Zenith](https://github.com/LeoncioDev/zenith)** · [zenith.leonciodev.me ↗](https://zenith.leonciodev.me)  
-Real-time crypto dashboard. Live prices via Binance WebSocket, candlestick charts, Fear & Greed index — no page refresh.  
-`Node.js` `Express` `WebSocket` `Binance API` `CoinGecko API`
-
-**[🌐 Portfolio](https://github.com/LeoncioDev/portfolio)** · [leonciodev.me ↗](https://leonciodev.me)  
-Personal portfolio. HTML, CSS, vanilla JS — no frameworks, no build tools.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 Scrutiny</h3>
+      <div align="center">
+        <a href="https://scrutiny.leonciodev.me" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-22D3EE?style=flat-square" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/LeoncioDev/Scrutiny" target="_blank">
+          <img src="https://img.shields.io/badge/📁_Code-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <br/>
+      <p>AI-powered GitHub profile analyzer. Paste a username and get a full technical report — stack, seniority, code quality, and job-fit score.</p>
+      <p>Dual-model LLaMA pipeline: <strong>8B filters repos</strong>, <strong>70B runs the deep analysis</strong> via Groq.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLaMA_3.3_70B-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Zenith</h3>
+      <div align="center">
+        <a href="https://zenith.leonciodev.me" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-22D3EE?style=flat-square" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/LeoncioDev/zenith" target="_blank">
+          <img src="https://img.shields.io/badge/📁_Code-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <br/>
+      <p>Real-time crypto dashboard with live price feeds via Binance WebSocket, candlestick charts, Fear & Greed index, and a currency converter.</p>
+      <p>Everything updates <strong>without a single page refresh</strong>.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSocket-22D3EE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Binance_API-F3BA2F?style=flat-square&logo=binance&logoColor=black" />
+        <img src="https://img.shields.io/badge/CoinGecko_API-8DC63F?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🌐 Portfolio</h3>
+      <div align="center">
+        <a href="https://leonciodev.me" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live-22D3EE?style=flat-square" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/LeoncioDev/portfolio" target="_blank">
+          <img src="https://img.shields.io/badge/📁_Code-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <br/>
+      <p align="center">Personal portfolio — no frameworks, no build tools. Just clean HTML, CSS, and vanilla JS. Fast, responsive, deployed with auto-deploy via GitHub.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
