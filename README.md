@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:22D3EE&height=200&section=header&text=João+Paulo+Leôncio&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full+Stack+Developer+%7C+Maceió%2C+Brazil&descAlignY=57&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,80:0d1117,100:22D3EE&height=200&section=header&text=João+Paulo+Leôncio&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full+Stack+Developer+%7C+Maceió%2C+Brazil&descAlignY=57&descSize=15&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -132,6 +132,6 @@ Passionate about building clean, maintainable web products — from the API to t
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE,161b22,0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE,0d1117,0d1117&height=100&section=footer" width="100%"/>
 
 </div>
