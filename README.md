@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=200&section=header&text=João+Paulo+Leôncio&fontSize=40&fontColor=fff&fontAlignY=36&desc=Full+Stack+Developer+%7C+Node.js+%7C+React+%7C+JavaScript&descAlignY=56&descSize=16&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=João+Paulo+Leôncio)](https://git.io/typing-svg)
 
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Building+complete+web+products+from+scratch;API+→+Backend+→+Interface;Maceió%2C+Brazil+🇧🇷)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Maceió%2C+Brazil;Building+complete+web+products+from+scratch;Node.js+%7C+React+%7C+JavaScript)](https://git.io/typing-svg)
 
 <br/>
+
+<a href="https://leonciodev.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-leonciodev.me-22D3EE?style=flat-square&logo=firefox&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/leonciodev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-leonciodev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:leonciodev@proton.me">
+  <img src="https://img.shields.io/badge/Email-leonciodev@proton.me-8B5CF6?style=flat-square&logo=protonmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -68,13 +74,5 @@ Personal portfolio. HTML, CSS, vanilla JS — no frameworks, no build tools.
 ---
 
 <div align="center">
-
-[leonciodev.me](https://leonciodev.me) · [LinkedIn](https://linkedin.com/in/leonciodev) · [leonciodev@proton.me](mailto:leonciodev@proton.me)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" width="100%"/>
-
+<sub>Built and shipped by João Paulo Leôncio · Maceió, Brazil</sub>
 </div>
