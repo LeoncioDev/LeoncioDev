@@ -128,7 +128,7 @@
 
 <div align="center">
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/LeoncioDev/LeoncioDev/output/github-contribution-grid-snake-dark.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/LeoncioDev/LeoncioDev/output/github-contribution-grid-snake.svg" />
 
 </div>
 
