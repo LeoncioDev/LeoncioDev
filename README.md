@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,39d353&height=220&section=header&text=João+Paulo+Leôncio&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full+Stack+Developer+%7C+Maceió%2C+Brazil&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:22D3EE&height=220&section=header&text=João+Paulo+Leôncio&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full+Stack+Developer+%7C+Maceió%2C+Brazil&descAlignY=58&descSize=18&animation=fadeIn&stroke=22D3EE&strokeWidth=1" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=39d353&center=true&vCenter=true&width=650&lines=Building+complete+web+products+from+scratch+%F0%9F%9A%80;API+%E2%86%92+Backend+%E2%86%92+Interface;Node.js+%7C+React+%7C+JavaScript;Studying+ADS+%40+CESMAC+%7C+Maceió%2C+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=🚀+Building+complete+web+products;⚡+API+→+Backend+→+Interface;🛠️+Node.js+%7C+React+%7C+JavaScript;🎓+Studying+ADS+%40+CESMAC+%7C+Brazil)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://leonciodev.me" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-leonciodev.me-39d353?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-leonciodev.me-22D3EE?style=for-the-badge&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/leonciodev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="mailto:leonciodev@proton.me">
-  <img src="https://img.shields.io/badge/ProtonMail-Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-leonciodev@proton.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
@@ -44,11 +44,11 @@
       <h3 align="center">🔍 Scrutiny</h3>
       <div align="center">
         <a href="https://scrutiny.leonciodev.me" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-39d353?style=flat-square&logoColor=white" />
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-22D3EE?style=flat-square&labelColor=0d1117" />
         </a>
         &nbsp;
         <a href="https://github.com/LeoncioDev/Scrutiny" target="_blank">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/📁_Code-ffffff?style=flat-square&logo=github&logoColor=black" />
         </a>
       </div>
       <br/>
@@ -56,21 +56,21 @@
       <p>Dual-model LLaMA pipeline: <strong>8B filters repos</strong>, <strong>70B runs the deep analysis</strong> via Groq.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black" />
         <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" />
-        <img src="https://img.shields.io/badge/LLaMA_3.3_70B-412991?style=flat-square" />
-        <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLaMA_3.3_70B-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/GitHub_API-333333?style=flat-square&logo=github&logoColor=white" />
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📈 Zenith</h3>
       <div align="center">
         <a href="https://zenith.leonciodev.me" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-39d353?style=flat-square" />
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-22D3EE?style=flat-square&labelColor=0d1117" />
         </a>
         &nbsp;
         <a href="https://github.com/LeoncioDev/zenith" target="_blank">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/📁_Code-ffffff?style=flat-square&logo=github&logoColor=black" />
         </a>
       </div>
       <br/>
@@ -78,8 +78,8 @@
       <p>Everything updates <strong>without a single page refresh</strong>.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square" />
+        <img src="https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black" />
+        <img src="https://img.shields.io/badge/WebSocket-22D3EE?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Binance_API-F3BA2F?style=flat-square&logo=binance&logoColor=black" />
         <img src="https://img.shields.io/badge/CoinGecko_API-8DC63F?style=flat-square" />
       </div>
@@ -90,11 +90,11 @@
       <h3 align="center">🌐 Portfolio</h3>
       <div align="center">
         <a href="https://leonciodev.me" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live-39d353?style=flat-square" />
+          <img src="https://img.shields.io/badge/🌐_Live-22D3EE?style=flat-square&labelColor=0d1117" />
         </a>
         &nbsp;
         <a href="https://github.com/LeoncioDev/portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/📁_Code-ffffff?style=flat-square&logo=github&logoColor=black" />
         </a>
       </div>
       <br/>
@@ -114,11 +114,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LeoncioDev&theme=dark&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LeoncioDev&theme=dark&hide_border=true&ring=22D3EE&fire=F55036&currStreakLabel=22D3EE&sideLabels=8B5CF6" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoncioDev&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoncioDev&layout=compact&theme=dark&hide_border=true&langs_count=5&title_color=22D3EE" alt="Top Languages" />
 
 </div>
 
@@ -136,6 +136,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39d353,0a0a0f,0,0a0a0f&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE,1a1f35,0d1117&height=120&section=footer" width="100%" />
 
 </div>
